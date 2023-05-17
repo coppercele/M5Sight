@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "D:/Users/mokeu/Documents/PlatformIO/Projects"
+		},
+		{
+			"name": "kei",
+			"path": "D:/Users/mokeu/Documents/PlatformIO/Projects/kei"
+		},
+		{
+			"name": "GlassUnit",
+			"path": "."
+		},
+		{
+			"name": "LIDER",
+			"path": "D:/Users/mokeu/Documents/PlatformIO/Projects/LIDER"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"new": "cpp",
+			"array": "cpp",
+			"*.tcc": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"memory": "cpp",
+			"random": "cpp",
+			"initializer_list": "cpp"
+		}
+	}
+}
